@@ -1,0 +1,4 @@
+0
+"
+
+{'Invoice no.': '001', 'Description': ['Widget A', 'Widget B'], 'Quantity': ['2', '5'], 'Date': '2024-04-13', 'Unit price': ['$30.00', '$20.00'], 'Amount': ['$60.00', '$100.00'], 'Total': '$168.00', 'email': 'info@gptwidgets.com', 'phone number': '(123) 456-7890', 'address': ['123 AI Lane', 'Model Town', 'OpenAI'], 'customer name': 'John Doe', 'customer address': '789 Coding Rd, Dev City', 'customer email': 'johndoe@example.com', 'customer phone': '(987) 654-3210'}"

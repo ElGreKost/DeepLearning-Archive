@@ -1,0 +1,1 @@
+An other agentic application that I have is [Tech Resume Screener](https://github.com/ElGreKost/TechResumeScreener) .

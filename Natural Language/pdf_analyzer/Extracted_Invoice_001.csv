@@ -1,0 +1,6 @@
+0
+" {'email': 'info@gptwidgets.com', 'phone number': '(123) 456-7890', 'address': '123 AI Lane, Model Town, OpenAI'}
+
+{'Invoice no.': '001', 'Description': 'Widget A', 'Quantity': '2', 'Date': '2024-04-13', 'Unit price': '30.00', 'Amount': '60.00', 'Total': '160.00'} 
+{'Invoice no.': '001', 'Description': 'Widget B', 'Quantity': '5', 'Date': '2024-04-13', 'Unit price': '20.00', 'Amount': '100.00', 'Total': '160.00'}
+{'email': 'info@gptwidgets.com', 'phone number': '(123) 456-7890', 'address': '123 AI Lane, Model Town, OpenAI'}"
