@@ -4,15 +4,17 @@ Welcome to the DeepLearning-Archive repository, a curated collection of resource
 
 ## Contents
 
-- **Agentic Systems**: Resources focusing on the development and study of agent-based systems in AI.
+- **Agentic Systems**: Resources focusing on the development and study of agent-based systems in AI.
 
-- **Computer Vision**: Materials related to image processing, object detection, and other visual recognition tasks.
+- **Computer Vision**: Materials related to image processing, object detection, and other visual recognition tasks.
 
-- **Natural Language**: Content centered around natural language processing, including text analysis and language modeling.
+- **Natural Language**: Content centered around natural language processing, including text analysis and language modeling.
 
-- **Nets from Scratch/Implementation in C++**: Implementations of neural networks built from the ground up using C++.
+- **Nets from Scratch/Implementation in C++**: Implementations of neural networks built from the ground up using C++.
 
-- **Reinforcement Learning**: Resources and implementations pertaining to reinforcement learning algorithms and applications.
+- **Reinforcement Learning**: Resources and implementations pertaining to reinforcement learning algorithms and applications.
+
+- **GANS**: At my [gans-in-action](https://github.com/ElGreKost/gans-in-action) repo where I reimplement a gan book in PyTorch.
 
 ## License
 
